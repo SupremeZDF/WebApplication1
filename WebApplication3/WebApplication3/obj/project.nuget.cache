@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GksnK4nDrVWWidE5P7g8tfmkT5SgcbWF+BcNjQeKWgUrQ9aEIb0aC/lYm+Spko1PxOYPR10zQVPm9mTFMuW20g==",
+  "dgSpecHash": "xuQdjfCuI+2mfMj/Z6vQLq0rIxyZMlWjGuVOxgIK1PeYmkcpz4pdeN/enPaRjyZJYn9A9H7brQLhivTeo6smmQ==",
   "success": true,
   "projectFilePath": "E:\\项目\\镜像仓库\\onewebapp\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\yunst\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
   "logs": []
 }
